@@ -11,4 +11,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./partilas/normalCode":"LZbG"}],"Focm":[function(require,module,exports) {
 "use strict";require("./scss/main.scss"),require("./js/main");
 },{"./scss/main.scss":"fx60","./js/main":"d6sW"}]},{},["Focm"], null)
-//# sourceMappingURL=/weather/src.1b0429c3.js.map
+//# sourceMappingURL=/weather/src.8e0e7c8f.js.map
